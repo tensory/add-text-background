@@ -1,5 +1,5 @@
 # Generate text background
-Sketch Plugin - Set automatically a background of your textlayer.
+Sketch Plugin - Set a background for your selected textlayer automatically.
 There is a white and black background option by default
 
 #Demo
