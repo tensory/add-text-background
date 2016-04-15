@@ -2,6 +2,9 @@
 Sketch Plugin - Set automatically a background of your textlayer.
 There is a white and black background option by default
 
+#Demo
+![Alt Text](http://i.imgur.com/zRMQm4j.gif)
+
 #Install
 1. Download and extract ZIP of this repo.
 2. Copy the plugin ``Generate text background`` in your Sketch plugin folder (use ``Plugins > Reveal Plugins Folder``).
