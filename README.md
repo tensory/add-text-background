@@ -1,16 +1,13 @@
-# Generate text background
-Sketch Plugin - Set a background for your selected textlayer automatically.
-There is a white and black background option by default
+# Add Text Background
+Sketch Plugin - Set a background for your selected text layer automatically.
 
-#Demo
-![Alt Text](http://i.imgur.com/zRMQm4j.gif)
+You can define your own Shape styles to apply a different fill and border.
 
 #Install
 1. Download and extract ZIP of this repo.
-2. Copy the plugin ``Generate text background`` in your Sketch plugin folder (use ``Plugins > Reveal Plugins Folder``).
-Plugin filename will show up as item in Sketch Plugins menu.
+2. Copy the plugin ``Add Text Background.sketchplugin`` into your Sketch plugin folder (use ``Plugins > Reveal Plugins Folder``).
+The plugin filename will show up as an item in the Sketch Plugins menu.
   
 #Usage
 1. Select one or more text layers in Sketch. 
-2. Run ``Plugins > Generate text backgroundt`` or use ``cmd + E``
-3. Choose between the color options
+2. Run ``Plugins > Add Text Background``
