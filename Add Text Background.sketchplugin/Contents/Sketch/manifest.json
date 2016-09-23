@@ -2,7 +2,7 @@
     "name" : "Add Text Background",
     "identifier" : "net.tensory.sketchapp.plugins",
     "version" : "1.0",
-    "description" : "Adds a background shape behind selected text layers, giving the appearance of a styled bounding box. Fork of original plugin at https://github.com/anagorn/generate-text-background",
+    "description" : "Adds a background shape behind selected text layers, giving the appearance of a styled bounding box.",
     "authorEmail" : "alacenski@gmail.com",
     "author" : "Ari Lacenski",
     "commands" : [
